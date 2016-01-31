@@ -1957,7 +1957,7 @@ pre code {
     width: 33.33333333%;
   }
   .col-md-3 {
-    width: 25%;
+    width: 24.5%;
   }
   .col-md-2 {
     width: 16.66666667%;
@@ -6775,4 +6775,37 @@ body {
 .cover .cover-image.cover-image-fixed {
   background-attachment: fixed;
 }
-/* PINGENDO COMMENT DO NOT REMOVE */
+
+#mainpart {
+	border-radius: 25px;
+    border: 5px solid #73AD21;
+    padding: 10px;
+}
+
+#box01 {
+	border-radius: 5px;
+    border: 3px solid #73AD21;
+    padding: 10px;
+	
+}
+
+#box02 {
+	border-radius: 5px;
+    border: 3px solid red;
+    padding: 10px;
+	margin-left: 0.25em;
+}
+
+#box03 {
+	border-radius: 5px;
+    border: 3px solid blue;
+    padding: 10px;
+	margin-left: 0.25em;
+}
+
+#box04 {
+	border-radius: 5px;
+    border: 3px solid orange;
+    padding: 10px;
+	margin-left: 0.25em;
+}
